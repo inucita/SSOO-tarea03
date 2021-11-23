@@ -45,7 +45,7 @@ void signal_handler( int signal_num ) {
     case SIGTSTP://señal de ctrl-z
          std::cout << "Detención no permitida" << std::endl;
         break;
-    case SIGQUIT://señal de ctrl-\ 
+    case SIGQUIT://señal de ctrl backslash
 		    
          std::cout << "Detención no permitida" << std::endl;
         break;
