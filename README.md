@@ -1,8 +1,8 @@
 # SSOO-tarea03
-Autor: Brenda Araya Bermudez 
+#####Autor: Brenda Araya Bermudez 
 
 
-Correo: brenda.arayab@alumnos.uv.cl
+#####Correo: brenda.arayab@alumnos.uv.cl
 
 
 
