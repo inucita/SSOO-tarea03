@@ -46,6 +46,7 @@ void signal_handler( int signal_num ) {
          std::cout << "Detención no permitida" << std::endl;
         break;
     case SIGQUIT://señal de ctrl-\ 
+		    
          std::cout << "Detención no permitida" << std::endl;
         break;
     case SIGUSR1:
